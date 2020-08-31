@@ -31,8 +31,10 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 1. What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
 1. Describe component state.
+   The state opject is where ypu store properties and values
 
 1. Describe props.
+   Are are a objects that pass data from one component to another
 
 1. What are side effects, and how do you sync effects in a React component to changes of certain state or props?
 
